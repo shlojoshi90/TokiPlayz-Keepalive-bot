@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TokiPlayzMC.aternos.me",
+    "ip": "tokiplayz.ddns.net:63624",
     "port": 63624,
     "version": "",
     "try-creative": false
